@@ -1,4 +1,4 @@
-# back-endApi hosted at: https://recipebookbackend1.herokuapp.com/
+# back-endApi hosted at: 
 
 Backend
 Description
